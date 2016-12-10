@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Hello World</string>
+    <string name="btnMessage">Show Message并打印debug信息</string>
+    <string name="btnActivityForResult">从下级窗体返回获取数据</string>
+    <string name="btnFinish">Finish me</string>
+    <string name="btnOpenWindow">open another window(2号窗体)</string>
+    <string name="btnOpenBrowse">打开浏览器</string>
+    <string name="btnOpenTel">打开电话</string>
+    
+    <string name="mnuAdd">Add</string>
+    <string name="mnuRemove">Remove</string>
+    <string name="mnuOpenWindow">Open Window(3号窗体)</string>
+    <string name="mnuFinish">Finish</string>
+    
+    <string name="btnShowMessage2">Show Message2</string>
+    <string name="btnFinish2">finish me2</string>
+
+    <string name="btnShowMessage3">Show Message3</string>
+    <string name="btnFinish3">finish me3</string>
+    
+    <string name="btnBackMessage4">Back Message4</string>
+
+</resources>

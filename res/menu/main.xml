@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+		android:id="@+id/add_item"
+		android:title="@string/mnuAdd"/>
+	<item
+		android:id="@+id/remove_item"
+		android:title="@string/mnuRemove"/>
+	<item
+		android:id="@+id/openwindow_item"
+		android:title="@string/mnuOpenWindow"/>
+	<item
+		android:id="@+id/finish_item"
+		android:title="@string/mnuFinish"/>
+
+</menu>
